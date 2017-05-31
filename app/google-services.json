@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "835214174297",
+    "firebase_url": "https://chatmsg-3b39b.firebaseio.com",
+    "project_id": "chatmsg-3b39b",
+    "storage_bucket": "chatmsg-3b39b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835214174297:android:4a96576e8f37a321",
+        "android_client_info": {
+          "package_name": "com.apps.chatmsg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835214174297-lbujq20isvpt4lmfnoehvj590e15l2hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTgUm55lg9exJHhQZnIaJj1vFZGt-GXak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
